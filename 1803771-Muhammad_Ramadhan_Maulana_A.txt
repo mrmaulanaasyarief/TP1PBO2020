@@ -1,0 +1,8 @@
+/*Saya Muhammad Ramadhan Maulana. A mengerjakan evaluasi TP 1 PBO 2020 dalam mata kuliah Pemrograman Berbasis Objek 
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*/
+
+Kesulitan saat harus populate data dari array of object ke form.
+-Web browser error terus
+-Detail belum
+-Logo Belum
++Login, Produk, Foto, Logout, Sort/Search Udah.
